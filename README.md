@@ -184,7 +184,6 @@ body, h1,h2,h3,h4,h5,h6 {font-family: "Montserrat", sans-serif}
       <p><i class="fa fa-phone fa-fw w3-xxlarge w3-margin-right"></i> Phone: +023 13193156692</p>
       <p><i class="fa fa-envelope fa-fw w3-xxlarge w3-margin-right"> </i> Email: 2546517031@qq.com</p>
     </div>
-    
     <!-- Image of location/map -->
     <img src="/w3images/map.jpg" class="w3-image w3-greyscale" style="width:100%;margin:32px 0">
    
